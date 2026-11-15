@@ -1,0 +1,12 @@
+{
+  "test_accuracy": 0.9768999814987183,
+  "test_loss": 0.07165587693452835,
+  "macro_precision": 0.9772403333329021,
+  "macro_recall": 0.9765628182029372,
+  "macro_f1": 0.9767915010194381,
+  "training_seconds": 136.79103372400277,
+  "average_single_image_inference_ms_cpu_or_active_device": 4.97791871100344,
+  "model_file_size_mb": 0.3155555725097656,
+  "test_samples": 10000,
+  "note": "Record hardware, TensorFlow version, and date when reporting results."
+}
