@@ -1,9 +1,9 @@
 # Group 3 — Handwritten Digit Recognition with Explainable CNN
 
 **Members**
-- Dhaval Sundhesha — Student ID: `ADD_ID`
-- Yuvraj Sharma — Student ID: `ADD_ID`
-- Dev Shrimal — Student ID: `ADD_ID`
+- Dhaval Sundhesha — Student ID: ku2407u047
+- Yuvraj Sharma — Student ID: ku2407u244
+- Dev Shrimal — Student ID: ku2407u043
 
 ## Goal
 Classify a handwritten digit (0–9) using a compact CNN trained on MNIST, then show a Grad-CAM heatmap that helps inspect the model's prediction.
